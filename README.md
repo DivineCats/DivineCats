@@ -20,7 +20,7 @@ Computer Science student and self-taught software engineer who builds automation
 
 ## GitHub Stats
 
-![Ced's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)
+[![Ced's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)
 
 ---
 
