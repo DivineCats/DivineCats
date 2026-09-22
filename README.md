@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e3e47a2-4c23-4721-b0ea-9c145659f422" alt="Divinecats" width="500" />
+</div>
+
 # Hi there, I'm Ced 👋
 
-Computer Science graduate a software engineer who builds automation tools, compilers, and database systems — comfortable across the stack, from Python data pipelines to React interfaces.
+Computer Science graduate and software engineer who builds automation tools, compilers, and database systems — comfortable across the stack, from Python data pipelines to React interfaces.
 
 - 💬 Ask me about: automation, database schema design, compilers, data pipelines
 - 📫 Reach me at: **castillocedric9@gmail.com**
@@ -18,10 +22,7 @@ Computer Science graduate a software engineer who builds automation tools, compi
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="<img width="1024" height="1024" alt="Divinecats" src="https://github.com/user-attachments/assets/6e3e47a2-4c23-4721-b0ea-9c145659f422" />" alt="Cedric" width="500" />
-</div>
-
+[![Ced's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)
 
 ---
 
