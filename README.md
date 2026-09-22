@@ -18,7 +18,10 @@ Computer Science graduate a software engineer who builds automation tools, compi
 
 ## GitHub Stats
 
-[![Ced's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)](https://github-readme-stats.vercel.app/api?username=DivineCats&show_icons=true&theme=default&hide_border=true)
+<div align="center">
+  <img src="<img width="1024" height="1024" alt="Divinecats" src="https://github.com/user-attachments/assets/6e3e47a2-4c23-4721-b0ea-9c145659f422" />" alt="Cedric" width="500" />
+</div>
+
 
 ---
 
