@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6e3e47a2-4c23-4721-b0ea-9c145659f422" alt="Divinecats" width="1000" />
+  <img src="https://github.com/user-attachments/assets/6e3e47a2-4c23-4721-b0ea-9c145659f422" alt="Divinecats" width="800" height="250" />
 </div>
 
 # Hi there, I'm Ced 👋
