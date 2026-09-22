@@ -1,9 +1,7 @@
 # Hi there, I'm Ced 👋
 
-Computer Science student and self-taught software engineer who builds automation tools, compilers, and database systems — comfortable across the stack, from Python data pipelines to React interfaces. I like shipping working software that solves real problems.
+Computer Science graduate a software engineer who builds automation tools, compilers, and database systems — comfortable across the stack, from Python data pipelines to React interfaces.
 
-- 🔭 Currently working on: **Lovers Compiler** — a custom programming language + web compiler (Python, Lark, Netlify)
-- 🌱 Currently learning: deeper compiler design and full-stack architecture
 - 💬 Ask me about: automation, database schema design, compilers, data pipelines
 - 📫 Reach me at: **castillocedric9@gmail.com**
 - 🌐 Portfolio: **https://johncedricvalenciaportfolio.framer.website**
